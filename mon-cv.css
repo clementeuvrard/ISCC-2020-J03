@@ -1,0 +1,7 @@
+.ranger{
+    display: flex;
+}
+.column{
+    float: left;
+    width: 50%;
+}
